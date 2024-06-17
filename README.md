@@ -9,7 +9,6 @@
 ## ⚡🙋‍♂️ About Me
 
 </br>
-
 - 🔧 I have worked on till now ...
   - Developed Noobs-pill, a cross-platform CLI application for beginners' programming education.
   - Created Blockchain Electronic Voting Machine System.
@@ -17,9 +16,15 @@
   - Contributed to Hardware Convair-belt system for Grainbee: A Blockchain Powered Ration Chain Distribution System.
   - Developed a mobile application for Grainbee: A Blockchain Powered Ration Chain Distribution System.
   - Worked on AI-Driven Healthcare: Revolutionizing Diagnosis with LLM & Crowd-Sensed Data.
-  - Developed AI-Driven Healthcare: Revolutionizing Diagnosis with LLM.
   - Contributed to the design of Bangladesh Advanced Multi-Role Combat Aircraft.
   - Developed AwazZ AI, a decentralized social media platform.
   - Designed a circuit that generates a voltage output two-thirds the input.
-  - Developed JiNo, a text editor using JAVA programming language.
+  - Developed JiNo, a text editor with post-quantum digital signature feature using JAVA programming language.
   - Contributed to the development of AwazZ AI's intelligence.
+
+- 💡 I’m curious about ...Natural Language Processing.
+- 📖 I’m currently learning ...Python, Flask, and Backend.
+- ❄️ I’m looking to collaborate on ...Open Source Projects.
+- 📫 How to reach me ...nishattasnin02@gmail.com
+
+<hr>
