@@ -9,7 +9,9 @@
 ## ⚡🙋‍♂️ About Me
 
 </br>
+
 - 🔧 I have worked on till now ...
+
   - Developed Noobs-pill, a cross-platform CLI application for beginners' programming education.
   - Created Blockchain Electronic Voting Machine System.
   - Developed ZOOTOPIA, a convenient zoo map and guide app.
@@ -23,7 +25,7 @@
   - Contributed to the development of AwazZ AI's intelligence.
 
 - 💡 I’m curious about ...Natural Language Processing.
-- 📖 I’m currently learning ...Python, Flask, and Backend.
+- 📖 I’m currently learning ...Python, Flask , and Backend.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...nishattasnin02@gmail.com
 
